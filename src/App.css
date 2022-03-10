@@ -1,0 +1,33 @@
+.cake-container {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+}
+h1 {
+  font-size: 35px;
+  text-align: center;
+  margin: 20px 0;
+}
+h2 {
+  font-size: 25px;
+  text-align: center;
+  margin: 30px 0;
+}
+button {
+  display: block;
+  border-radius: 2px;
+  border: none;
+  height: 30px;
+  width: 130px;
+  background-color: red;
+  color: #fff;
+  margin: auto;
+}
+input {
+  width: 30%;
+  height: 30px;
+  border-radius: 2px;
+  margin: auto;
+  margin-bottom: 30px;
+  padding: 10px;
+}
